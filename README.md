@@ -5,5 +5,6 @@ Sau khi đi làm được một vài năm, và học hỏi từ mọi người, 
 ##### Các nội dung chính
 
 - [Thiết kế về authentication](./database/01_authentication.md)
-- [Cách thiết kế về đếm (count) tổng số lượng](./database/02_count_relationship.md)
-- ​
+- [Thiết kế về đếm (count) tổng số lượng](./database/02_count_relationship.md)
+- [Thiết kế về confirmation](./database/03_confirmation.md)
+
